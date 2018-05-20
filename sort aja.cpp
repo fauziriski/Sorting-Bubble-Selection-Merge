@@ -23,5 +23,4 @@ int main () {
 	for (int l=0;l<7;l++){
 		cout<<A[l]<<" ";
 	}
-	
 }
